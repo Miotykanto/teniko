@@ -1,0 +1,26 @@
+
+#eto{
+    background-color: #d05c62  !important;
+     
+}
+
+.premierButton{
+    margin-top:20%; 
+    background: #d05c62 ;
+    text-shadow: 10px 10px 15px rgb(10, 6, 252);
+    box-shadow: 6px 6px 6px #802f33 inset; 
+    border: 3px solid #FFFFFF;
+	padding: 5px;
+	-moz-border-radius: 10px 0;
+	-webkit-border-radius: 10px 0;
+    border-radius: 10px 0;
+   
+}
+
+#publocations{
+  margin-top:20%;
+  text-decoration: underline solid rgb(129, 62, 6) ;
+  text-align: unset;
+ 
+
+}

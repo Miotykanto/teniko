@@ -1,0 +1,34 @@
+.formulaireAtelier{
+width: 300px;
+padding: 20px;
+margin: 10px auto;
+line-height: 3;
+background-color: #e65f1c;
+text-align: center;
+border: 20px solid black;
+background-clip: padding-box;
+border-image-source: url(https://mdn.mozillademos.org/files/13060/border-image.png);
+border-image-slice: 40;
+border-image-repeat: round;
+text-justify: auto;    
+}
+
+#bouttonAjouter{
+    margin-top: 10%;
+    background:#d05c62 ;
+}
+
+#legende{
+    font-family: 'Roboto', sans-serif;
+    text-decoration-color: currentColor;
+
+}
+#buttonUpload{
+    margin-top:7%;
+    margin-left: 2%;
+}
+body{
+    background: #cf5158 ;
+}
+
+
